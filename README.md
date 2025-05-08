@@ -1,1 +1,1 @@
-Repositório para submissões dos treinamentos python
+Repositório para submissões dos treinamentos de python
